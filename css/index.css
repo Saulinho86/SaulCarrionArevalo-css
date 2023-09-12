@@ -149,7 +149,7 @@
             grid-template-columns: 1fr 1fr;
         }
     }
-
+}
     .g-5xs {
         gap: calc(var(--element-spacing) * 0.25);
     }
